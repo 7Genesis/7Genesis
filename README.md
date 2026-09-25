@@ -4,7 +4,7 @@ Desenvolvedor Full Stack. Faço chatbots com IA, apps mobile, automações e sis
 
 Sou estagiário de desenvolvimento no SAAE de Juazeiro, onde desenvolvi a plataforma de atendimento por WhatsApp com IA (integrada ao GSAN) e reescrevi em React Native o app do cidadão, que está em análise para publicação. Fora do estágio, faço projetos próprios e freelance. Venho de vendas, compras e logística, o que me ajuda a entender o problema do negócio antes de escrever código.
 
-**Estou buscando minha próxima oportunidade como desenvolvedor full stack (júnior ou pleno, conforme o escopo).**
+**Estou buscando minha próxima oportunidade como desenvolvedor full stack (júnior ou pleno, conforme o escopo).** Aceito trabalho remoto ou presencial e estou disposto a me mudar de cidade.
 
 [LinkedIn](https://www.linkedin.com/in/genesis-melo/) · [Portfólio](https://portfolio-genesis-one.vercel.app) · [E-mail](mailto:genesis.melo4398@hotmail.com)
 
