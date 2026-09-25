@@ -10,7 +10,7 @@ Sou estagiário de desenvolvimento no SAAE de Juazeiro, onde desenvolvi a plataf
 
 ## Stack
 
-| | |
+| Área | Tecnologias |
 |---|---|
 | Linguagens | Python, TypeScript, JavaScript, C#, Java |
 | Back-end | Django, Node.js, NestJS, Express, .NET, Spring Boot |
