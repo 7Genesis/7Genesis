@@ -36,7 +36,7 @@ Sou estagiário de desenvolvimento no SAAE de Juazeiro, onde desenvolvi a plataf
 
 ## Minhas contribuições
 
-Uma nave atira nos quadradinhos das minhas contribuições do último ano. O SVG é gerado todo dia por um workflow com [pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph).
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7Genesis/7Genesis/output/galaga-contribution-graph-dark.svg">
