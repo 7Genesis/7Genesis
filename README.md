@@ -26,7 +26,7 @@ Sou estagiário de desenvolvimento no SAAE de Juazeiro, onde desenvolvi a plataf
 | [CreditFlow](https://github.com/7Genesis/CreditFlow) | API de propostas de crédito com Clean Architecture e testes do domínio | .NET 10, EF Core, xUnit |
 | [StockFlow](https://github.com/7Genesis/stockflow) ([demo](https://stockflow-cyan.vercel.app)) | Estoque multiempresa com solicitações, aprovação e importação de NF-e | Next.js, Prisma |
 | [Finance Control](https://github.com/7Genesis/finance-control-api) ([demo](https://finance-control-nine-ashy.vercel.app)) | Controle financeiro pessoal com JWT e dashboard | Node.js, PostgreSQL, Next.js |
-| [ChatLab](https://github.com/7Genesis/chatlab) | Backend de um hub de atendimento com modelo multi-tenant e login JWT (em desenvolvimento) | Java 21, Spring Boot, Flyway |
+| [ChatLab](https://github.com/7Genesis/chatlab) | Backend de um hub de atendimento com isolamento por empresa (multi-tenant) e login JWT (em desenvolvimento) | Java 21, Spring Boot, Flyway |
 | [Falta de água por bairro](https://github.com/7Genesis/Sistema-de-Notifica-o-de-Falta-de-gua-por-Bairro) | Ocorrências de falta de água, dashboard e mapa, para o SAAE Juazeiro | Python, Django |
 | [Order API](https://github.com/7Genesis/order-api) | API REST de pedidos com validação e tratamento de duplicidade | Node.js, Express, MongoDB |
 | [Tinder Pet](https://github.com/7Genesis/tinder-pet) ([demo](https://7genesis.github.io/tinder-pet/)) | Protótipo de adoção de pets para ONGs, com match e chat (front-end pronto, API ainda não) | React, TypeScript, Vite |
